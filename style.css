@@ -71,6 +71,17 @@
     background-color: #00205a;
     color: #ffffff;
   }
+table, caption, th, td {
+
+border: 2px solid white;
+  border-collapse: collapse;
+
+}
+caption, th, td {
+
+padding: 8px;
+
+}
   
   /* Styles pour le pied de page */
   footer {
