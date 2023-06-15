@@ -18,7 +18,7 @@
   
   /* Styles pour la bannière */
   .banner {
-    background-color: #00122c;
+    background-color: #1a092;
     color: #fff;
     padding: 20px;
   }
@@ -34,7 +34,7 @@
   }
   
   nav {
-    background-color: #001c44;
+    background-color: #2c0044;
     width: 120px;
      color: #ffffff;
   }
@@ -68,7 +68,7 @@
   section {
     padding: 20px;
     flex: 1;
-    background-color: #00205a;
+    background-color: #540364;
     color: #ffffff;
   }
 table, caption, th, td {
@@ -85,7 +85,7 @@ padding: 8px;
   
   /* Styles pour le pied de page */
   footer {
-    background-color: #00122c;
+    background-color: #1a0928;
     color: #fff;
     padding: 20px;
     text-align: center;
